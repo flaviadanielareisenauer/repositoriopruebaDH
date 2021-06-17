@@ -1,4 +1,3 @@
 let uno = 1;
-let clubFavorito = 'Barcelona';
-let comida = 'Pizza';
-
+let miNombre = 'Daniela';
+let perra = 'Marguis';
